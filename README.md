@@ -4,12 +4,12 @@ Welcome to my GitHub profile!
 
 🎓 I'm a student passionate about cybersecurity, ethical hacking, and tech in general.
 
-I'm new to CTFs (Capture The Flag) and currently diving into the world of cybersecurity. My strength so far is in **web exploitation**, and I'm always eager to explore and learn from all kinds of categories—whether it's forensics, reverse engineering, or binary exploitation.
+I'm new to CTFs (Capture The Flag) and currently diving into the world of cybersecurity. My strength so far is in **web exploitation** and **forensics**, and I'm always eager to explore and learn from all kinds of categories—whether it's reverse engineering, or binary exploitation.
 
 ---
 
 ### 🚀 Goals
-- Sharpen my web exploitation skills 🕸️
+- Sharpen my web exploitation and forensics skills 🕸️
 - Learn binary and pwn (even though it scares me)
 - Write more CTF and learning writeups
 
