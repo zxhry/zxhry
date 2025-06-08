@@ -1,22 +1,12 @@
 # Hello, I'm Myo👋
 
-Welcome to my GitHub profile!
+I'm new to CTFs and still learning the basics of cybersecurity.  
+I’ve joined my first CTF and I’m exploring different categories to find what I enjoy and where I can grow.
 
-🎓 I'm a student passionate about cybersecurity, ethical hacking, and tech in general.
-
-I'm new to CTFs (Capture The Flag) and currently diving into the world of cybersecurity. My strength so far is in **web exploitation** and I like to do **digital forensics** :D , and I'm always eager to explore and learn from all kinds of categories—whether it's reverse engineering, or binary exploitation.
-
----
-
-### 🚀 Goals
-- Sharpen my web exploitation and digital forensics skills 🕸️
-- Learn binary and pwn (even though it scares me)
-- Write more CTF writeups
-
----
+Right now, I’m just focused on learning, trying new challenges, and taking small steps forward.
 
 ### 📝 My blog
-myos-esc.gitbook.io/myos-esc.
+[myos-esc.gitbook.io/myos-esc.](myos-esc.gitbook.io/myos-esc.)
 
 ![visitors](https://komarev.com/ghpvc/?username=blue&color=red)
 <!---
