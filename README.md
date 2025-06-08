@@ -6,7 +6,7 @@ I’ve joined my first CTF and I’m exploring different categories to find what
 Right now, I’m just focused on learning, trying new challenges, and taking small steps forward.
 
 ### 📝 My blog
-[myos-esc.gitbook.io/myos-esc.](myos-esc.gitbook.io/myos-esc.)
+[myos-esc.gitbook.io/myos-esc.](https://myos-esc.gitbook.io/myos-esc.)
 
 ![visitors](https://komarev.com/ghpvc/?username=blue&color=red)
 <!---
