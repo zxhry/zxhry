@@ -25,9 +25,6 @@ I'm building my foundation and:
 📝 I keep all my CTF writeups here:  
 ➡️ [**myos-esc.gitbook.io/myos-esc.**](https://myos-esc.gitbook.io/myos-esc.)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=blue&color=red" alt="profile views" />
-</div>
 
 
 <!---
