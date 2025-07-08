@@ -22,7 +22,6 @@ I'm building my foundation and:
 
 ## 📝 My blog
 
-📝 I keep all my CTF writeups here:  
 ➡️ [**myos-esc.gitbook.io/myos-esc.**](https://myos-esc.gitbook.io/myos-esc.)
 
 
