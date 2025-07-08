@@ -4,8 +4,6 @@
 
 # 👻 whoami
 
-> 「 Learning how to break things to understand how they work. 」
-
 Hey there~!  
 I'm `Myo`, a curious soul diving headfirst into the world of **CTFs** and **cybersecurity** — still learning, still hacking, still dreaming ✨
 
