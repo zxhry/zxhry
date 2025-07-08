@@ -1,18 +1,36 @@
-# whoami👋
+<div align="center">
+  <img src="https://i.pinimg.com/originals/66/59/d9/6659d960e03590b66214fecc7aaa9ef2.gif" width="300" alt="Anime Hacker Vibes">
+</div>
 
-I'm new to CTFs and still learning the basics of cybersecurity.  
-I’ve joined my first CTF and I’m exploring different categories to find what I enjoy and where I can grow.
+# 👻 whoami
 
-Right now, I’m just focused on learning, trying new challenges, and taking small steps forward.
+> 「 Learning how to break things to understand how they work. 」
 
-### 📝 My blog
-[myos-esc.gitbook.io/myos-esc.](https://myos-esc.gitbook.io/myos-esc.)
+Hey there~!  
+I'm `Myo`, a curious soul diving headfirst into the world of **CTFs** and **cybersecurity** — still learning, still hacking, still dreaming ✨
 
-![visitors](https://komarev.com/ghpvc/?username=blue&color=red)
+*Solve what I can, learn from what I can't.*
 
-![CTF](https://img.shields.io/badge/CTF-Learner-blue)
-![Cybersecurity](https://img.shields.io/badge/Security-In_Progress-red)
-![Writeups](https://img.shields.io/badge/Writeups-On%20GitBook-green)
+
+## 🌸 Current Mission
+
+> _"Even if you are a novice, keep moving forward."_ — *Itou Makise, Steins;Gate*
+
+I'm building my foundation and:
+- Participating in beginner-friendly CTFs 🧠
+- Writing down my thoughts and solutions 📓
+- Slowly sharpening my skills one flag at a time 🏁
+
+
+## 📝 My blog
+
+📝 I keep all my CTF writeups here:  
+➡️ [**myos-esc.gitbook.io/myos-esc.**](https://myos-esc.gitbook.io/myos-esc.)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=blue&color=red" alt="profile views" />
+</div>
+
 
 <!---
 zxhry/zxhry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
