@@ -1,5 +1,9 @@
 # ⋆˚࿔ Siti Zahra 𝜗𝜚˚⋆
-   
+
+<div align="center">
+  <img src="images/hutao.png" width="700" alt="Hu Tao">
+</div>
+
 <div align="center">
   <img src="https://i.pinimg.com/originals/66/59/d9/6659d960e03590b66214fecc7aaa9ef2.gif" width="300" alt="Anime Hacker Vibes">
 </div>
@@ -29,7 +33,7 @@ I'm building my foundation and:
 
 ## 🔗 Connect with Me ⊹ ࣪ ˖
 
-<p align="center">
+<p>
   <a href="https://open.spotify.com/user/31iqoff6fy37lclkkblgqefj7cny?si=d4babd74f9054453">
     <img src="https://img.shields.io/badge/SPOTIFY-%23d9b9b4?style=for-the-badge&logo=google-spotify&logoColor=black" />
   </a>
@@ -45,6 +49,11 @@ I'm building my foundation and:
 </p>
 
 <p align="center">───── ⋆⋅☆⋅⋆ ─────</p>⠀⠀⠀⠀⠀⠀
+
+<div align="center">
+  <img src="https://media.tenor.com/QG3DI3swR4oAAAAM/hu-tao.gif" width="100" alt="Anime Hacker Vibes">
+</div>
+<p align="center">Thank you for visiting!</p>
 
 <!---
 zxhry/zxhry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
