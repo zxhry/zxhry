@@ -1,7 +1,7 @@
 # ⋆˚࿔ Siti Zahra 𝜗𝜚˚⋆
 
 <div align="center">
-  <img src="images/hutao.png" width="700" alt="Hu Tao">
+  <img src="images/hutao.png" width="600" alt="Hu Tao">
 </div>
 
 <div align="center">
@@ -35,7 +35,7 @@ I'm building my foundation and:
 
 <p>
   <a href="https://open.spotify.com/user/31iqoff6fy37lclkkblgqefj7cny?si=d4babd74f9054453">
-    <img src="https://img.shields.io/badge/SPOTIFY-%23d9b9b4?style=for-the-badge&logo=google-spotify&logoColor=black" />
+    <img src="https://img.shields.io/badge/SPOTIFY-%23d9b9b4?style=for-the-badge&logo=spotify&logoColor=black" />
   </a>
   <a href="https://www.youtube.com/@rhy_orchid">
     <img src="https://img.shields.io/badge/YOUTUBE-%23d9b9b4?style=for-the-badge&logo=youtube&logoColor=black" />
@@ -43,7 +43,7 @@ I'm building my foundation and:
   <a href="https://x.com/myong_spc">
     <img src="https://img.shields.io/badge/TWITTER-%23d9b9b4?style=for-the-badge&logo=x&logoColor=black" />
   </a>
-  <a href="www.linkedin.com/in/sitizahrasafa">
+  <a href="https://www.linkedin.com/in/sitizahrasafa">
     <img src="https://img.shields.io/badge/LINKEDIN-%23d9b9b4?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
 </p>
