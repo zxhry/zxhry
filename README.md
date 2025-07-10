@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/66/59/d9/6659d960e03590b66214fecc7aaa9ef2.gif" width="300" alt="Anime Hacker Vibes">
+  <img src="https://i.pinimg.com/originals/66/59/d9/6659d960e03590b66214fecc7aaa9ef2.gif" width="300" alt="Fire Butterfly">
 </div>
 <p align="center"><em>"Lemme show you some fire tricks. First... Fire! And then... Whoosh! Fire butterfly! Be free!"<br>— Hu Tao</em></p>
 
