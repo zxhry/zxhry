@@ -1,5 +1,3 @@
-# ⋆˚࿔ Siti Zahra 𝜗𝜚˚⋆
-
 <div align="center">
   <img src="images/hutao.png" width="600" alt="Hu Tao">
 </div>
