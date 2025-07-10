@@ -45,9 +45,6 @@ I'm building my foundation and:
   <a href="https://x.com/myong_spc">
     <img src="https://img.shields.io/badge/TWITTER-%23d9b9b4?style=for-the-badge&logo=x&logoColor=black" />
   </a>
-  <a href="https://medium.com/@cloud-in-the-sky">
-    <img src="https://img.shields.io/badge/MEDIUM-%23d9b9b4?style=for-the-badge&logo=medium&logoColor=black" />
-  </a>
   <a href="https://www.youtube.com/@rhy_orchid">
     <img src="https://img.shields.io/badge/YOUTUBE-%23d9b9b4?style=for-the-badge&logo=youtube&logoColor=black" />
   </a>
