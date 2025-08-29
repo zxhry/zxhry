@@ -10,16 +10,16 @@
 
 ## 👻 whoami ⊹ ࣪ ˖
 
-A curious soul diving headfirst into the world of **CTFs** and **cybersecurity** — still learning, still hacking, still dreaming ✨
+Just a soul wandering around — still exploring, still learning, still dreaming ✨
 
-*Solve what I can, learn from what I can't.*
+*I don’t have it all figured out yet.*
 
 
 ## 🌸 Current Mission ⊹ ࣪ ˖
 
 > _"Even if you are a novice, keep moving forward."_
 
-I'm building my foundation and:
+For now, I’m focused on:
 - Participating in beginner-friendly CTFs 🧠
 - Writing down my thoughts and solutions 📓
 - Slowly sharpening my skills 🚀
