@@ -17,15 +17,15 @@ Just a soul wandering around — still exploring, still learning, still dreaming
 
 > _"Even if you are a novice, keep moving forward."_
 
-For now, I’m focused on: binary exploitation and cloud
+For now, I’m focused on: binary exploitation
 
-
+<!---
 ## ☁️ Other interests ⊹ ࣪ ˖
 - illustration (anime-inspired)
 - comic-making
 - 2d animation
 - game development 
-
+--->
 
 ## 🦋 My blog ⊹ ࣪ ˖
 
