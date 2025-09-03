@@ -17,7 +17,9 @@ Just a soul wandering around — still exploring, still learning, still dreaming
 
 > _"Even if you are a novice, keep moving forward."_
 
-For now, I’m focused on: binary exploitation
+For now, I’m focused on: 
+- Exploring CTF challenges
+
 
 <!---
 ## ☁️ Other interests ⊹ ࣪ ˖
