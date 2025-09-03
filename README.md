@@ -17,8 +17,7 @@ Just a soul wandering around — still exploring, still learning, still dreaming
 
 > _"Even if you are a novice, keep moving forward."_
 
-For now, I’m focused on: 
-- Exploring CTF challenges
+For now, I’m focused on: exploring CTF challenges
 
 
 <!---
