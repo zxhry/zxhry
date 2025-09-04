@@ -12,6 +12,8 @@
 
 Just a soul wandering around — still exploring, still learning, still dreaming ✨
 
+![TryHackMe Stats](https://raw.githubusercontent.com/myokohi/myokohi/master/assets/thm_propic.png)
+
 
 ## 🌸 Current mission ⊹ ࣪ ˖
 
