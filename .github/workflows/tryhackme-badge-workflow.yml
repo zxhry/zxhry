@@ -1,0 +1,17 @@
+name: TryHackMe Update Badge
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # runs once a day
+  workflow_dispatch:       # allows manual run
+
+jobs:
+  tryhackme-badge-update:
+    name: Update this repo's TryHackMe badge with the latest image
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: p4p1/tryhackme-badge-workflow@main
+        with:
+          username: "myokohi"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
