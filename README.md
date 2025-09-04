@@ -16,11 +16,10 @@ Just a soul wandering around — still exploring, still learning, still dreaming
 
 
 ## 🌸 Current mission ⊹ ࣪ ˖
-
+<!---
 > _"Even if you are a novice, keep moving forward."_
-
-For now, I’m focused on: exploring CTF challenges
-
+--->
+For now, I’m focused on exploring CTF challenges
 
 <!---
 ## ☁️ Other interests ⊹ ࣪ ˖
@@ -30,6 +29,7 @@ For now, I’m focused on: exploring CTF challenges
 - game development 
 --->
 
+<!---
 ## 🦋 My blog ⊹ ࣪ ˖
 
 <p>
@@ -39,24 +39,29 @@ For now, I’m focused on: exploring CTF challenges
   <a href="https://medium.com/@cloud-in-the-sky">
     <img src="https://img.shields.io/badge/MEDIUM-%23d9b9b4?style=for-the-badge&logo=medium&logoColor=black" />
   </a>
-</p>
+</p> --->
 
-## 🔗 Connect with Me ⊹ ࣪ ˖
+## 🔗 Links ⊹ ࣪ ˖
 
 <p>
+  <a href="https://myos-esc.gitbook.io">
+    <img src="https://img.shields.io/badge/GITBOOK-%23d9b9b4?style=for-the-badge&logo=gitbook&logoColor=black" />
+  </a>
   <a href="https://www.linkedin.com/in/sitizahrasafa">
     <img src="https://img.shields.io/badge/LINKEDIN-%23d9b9b4?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="https://x.com/myong_spc">
     <img src="https://img.shields.io/badge/TWITTER-%23d9b9b4?style=for-the-badge&logo=x&logoColor=black" />
   </a>
+</p>
+<!---
   <a href="https://www.youtube.com/@rhy_orchid">
     <img src="https://img.shields.io/badge/YOUTUBE-%23d9b9b4?style=for-the-badge&logo=youtube&logoColor=black" />
   </a>
   <a href="https://open.spotify.com/user/31iqoff6fy37lclkkblgqefj7cny?si=d4babd74f9054453">
     <img src="https://img.shields.io/badge/SPOTIFY-%23d9b9b4?style=for-the-badge&logo=spotify&logoColor=black" />
   </a>
-</p>
+</p> --->
 
 <p align="center">───── ⋆⋅☆⋅⋆ ─────</p>⠀⠀⠀⠀⠀⠀
 
