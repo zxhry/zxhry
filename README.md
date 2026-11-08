@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://myos-esc.gitbook.io"><img src="https://img.shields.io/badge/GITBOOK-d9b9b4?style=for-the-badge&logo=gitbook&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/sitizahrasafa"><img src="https://img.shields.io/badge/LINKEDIN-d9b9b4?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="https://x.com/myong_spc"><img src="https://img.shields.io/badge/TWITTER-d9b9b4?style=for-the-badge&logo=x&logoColor=black" /></a>
+  <a href="https://x.com/myok0hi"><img src="https://img.shields.io/badge/TWITTER-d9b9b4?style=for-the-badge&logo=x&logoColor=black" /></a>
 </p>
 
 ---
